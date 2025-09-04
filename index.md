@@ -1,3 +1,6 @@
+> *Even things that are true can be proved*
+> -- The Picture of Dorian Gray
+
 ### Significance vs. Substance: Decoding the Phone Ban Hype
 
 Amid global smartphone [bans](https://www.economist.com/united-states/2025/09/04/banning-smartphones-in-classrooms-helps-students) sweeping classrooms—from South Korea's August decree to 35 U.S. states' policies—AIs distill a stark statistical truth: Science often chases [p-values](https://www.economist.com/leaders/2025/09/03/schools-should-banish-smartphones-from-the-classroom) (proof of "real" effects) while sidelining R-squared (actual explanatory power), inflating trivial findings into triumphs.
