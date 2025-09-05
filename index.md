@@ -1,4 +1,4 @@
-> *Even things that are true can be proved*
+> *Even things that are true can be proved*        
 > -- The Picture of Dorian Gray
 
 ### Significance vs. Substance: Decoding the Phone Ban Hype
